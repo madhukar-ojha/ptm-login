@@ -1,0 +1,22 @@
+{
+  "successResponse" : {
+    "response" : {
+      "id" : 0,
+      "displayName" : null,
+      "designationName" : null,
+      "enabled" : false,
+      "userRole" : [ ],
+      "homeMap" : { },
+      "permittedURLs" : [ ]
+    }
+  },
+  "errorResponse" : {
+    "serviceException" : {
+      "errorCode" : "102",
+      "shortMessage" : "absent msg",
+      "longMessage" : "long msg",
+      "errorMap" : { }
+    }
+  },
+  "httpStatus" : "OK"
+}
